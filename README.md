@@ -1,9 +1,4 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
-## Problem Title
-SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 # Date:18/09/2026
 ## Register Number:212223043005
 ## Name:Rishi chandran R
